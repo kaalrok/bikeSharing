@@ -1,4 +1,4 @@
-[Tableau Storyboard](https://public.tableau.com/views/BikeRides2_0/CityBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to Tableau Storyboard")
+For more information, please check out our Tableau Storyboard site: [Tableau Storyboard](https://public.tableau.com/views/BikeRides2_0/CityBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to Tableau Storyboard")
 
 # CitiBike Project Overview<br>
 Kate and I live in Des Moine, Iowa. We took a trip to NYC, and found their bike sharing opportunites. We loved it so much that we decided to see if we could do the same back home in Des Moine. First we needed to do some analysis on the bike sharing in NYC though. And that is what this project is focusing on. 
