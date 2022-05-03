@@ -1,5 +1,6 @@
 # ignore 201908 citibike tripdata
-Resources/201908-citibike-tripdata.csv
+201908-citibike-tripdata.csv
+201908-citibike-tripdata-tripdurationDate.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
